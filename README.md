@@ -5,3 +5,4 @@ Drive Class: org.hsqldb.jdbc.JDBCDriver
 JDBC URL: jdbc:hsqldb:mem:testdb
 User Name: sa
 password: 
+- ItemProcessor é uma Interface do Spring Batch
